@@ -2,6 +2,9 @@
 
 This is a web scrapper built in Python, that can be used to extract reviews from online shopping website : https://www.amazon.in/
 
+The scrapper makes use of a YAML file to create an extractor. The file contains almost all the attributes that can be required by any user,
+but it can be modified to add or drop data fields according to the requirement of the user.
+
 The output will be saved in CSV format.
 The generated output contains the following 14 data fields:
                                              
