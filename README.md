@@ -1,4 +1,4 @@
-# Web_Scrapping
+# Web_Scraper
 
 This is a web scrapper built in Python, that can be used to extract reviews from online shopping website : https://www.amazon.in/
 
